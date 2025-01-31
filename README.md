@@ -44,7 +44,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 2. Replace the placeholder token in the script with your actual bot token:
 
    ```python
-   bot = telebot.TeleBot('YOUR_BOT_TOKEN')
+   bot = telebot.TeleBot('')
    ```
 
 3. Add your admin user IDs in the `admin_id` list:
